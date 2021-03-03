@@ -7,3 +7,4 @@ DOMAIN-SUFFIX,ytimg.com,YouTube
 DOMAIN,youtubei.googleapis.com,YouTube
 DOMAIN,yt3.ggpht.com,YouTube
 DOMAIN,youtubei.googleapis.com,Youtube
+USER-AGENT,YouTubeMusic*,Youtube
