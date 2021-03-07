@@ -3,8 +3,6 @@
 # > Himalaya
 USER-AGENT,Himalaya*,Streaming
 DOMAIN-SUFFIX,himalaya.com,Streaming
-DOMAIN-SUFFIX,instagram.com,PROXY
-DOMAIN-SUFFIX,cdninstagram.com,PROXY
 # (Music)
 # > Deezer
 USER-AGENT,Deezer*,Streaming
