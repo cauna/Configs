@@ -75,12 +75,6 @@ DOMAIN-SUFFIX,bahamut.com.tw,Streaming
 DOMAIN-SUFFIX,gamer.com.tw,Streaming
 DOMAIN,gamer-cds.cdn.hinet.net,Streaming
 DOMAIN,gamer2-cds.cdn.hinet.net,Streaming
-# > BBC iPlayer
-USER-AGENT,BBCiPlayer*,Streaming
-DOMAIN-SUFFIX,bbc.co.uk,Streaming
-DOMAIN-SUFFIX,bbci.co.uk,Streaming
-DOMAIN-KEYWORD,bbcfmt,Streaming
-DOMAIN-KEYWORD,uk-live,Streaming
 # > DAZN
 USER-AGENT,DAZN*,Streaming
 DOMAIN-SUFFIX,dazn.com,Streaming
