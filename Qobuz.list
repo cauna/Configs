@@ -1,2 +1,5 @@
 DOMAIN-SUFFIX,qobuz.com,Qobuz
 DOMAIN-KEYWORD,qobuz,Qobuz
+DOMAIN-KEYWORD,paypal,Qobuz
+DOMAIN-SUFFIX,paypal.com,Qobuz
+DOMAIN-SUFFIX,paypalobjects.com,Qobuz
