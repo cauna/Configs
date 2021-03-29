@@ -3,3 +3,12 @@ DOMAIN-KEYWORD,qobuz,Qobuz
 DOMAIN-KEYWORD,paypal,Qobuz
 DOMAIN-SUFFIX,paypal.com,Qobuz
 DOMAIN-SUFFIX,paypalobjects.com,Qobuz
+# > Apple News
+DOMAIN,gateway.icloud.com,PROXY
+DOMAIN,gspe1-ssl.ls.apple.com,PROXY
+DOMAIN-SUFFIX,apple.news,PROXY
+DOMAIN,news-assets.apple.com,PROXY
+DOMAIN,news-client.apple.com,PROXY
+DOMAIN,news-edge.apple.com,PROXY
+DOMAIN,news-events.apple.com,PROXY
+DOMAIN,apple.comscoreresearch.com,PROXY
