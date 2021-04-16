@@ -15,7 +15,14 @@ DOMAIN-SUFFIX,onedrive.live.com,PROXY
 DOMAIN-SUFFIX,streaming.mediaservices.windows.net,PROXY
 DOMAIN,az416426.vo.msecnd.net,PROXY
 DOMAIN,az668014.vo.msecnd.net,PROXY
-
+# > Others
+DOMAIN-SUFFIX,bing.com,PROXY
+DOMAIN-SUFFIX,cccat.io,PROXY
+DOMAIN-SUFFIX,dubox.com,PROXY
+DOMAIN-SUFFIX,duboxcdn.com,PROXY
+DOMAIN-SUFFIX,ifixit.com,PROXY
+DOMAIN-SUFFIX,mangakakalot.com,PROXY
+DOMAIN-SUFFIX,shopeemobile.com,PROXY
 
 DOMAIN-SUFFIX,m.me,PROXY
 DOMAIN-SUFFIX,messenger.com,PROXY
