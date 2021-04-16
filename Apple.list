@@ -1,0 +1,44 @@
+# Apple
+DOMAIN-SUFFIX,aaplimg.com,Apple
+DOMAIN-SUFFIX,apple.co,Apple
+DOMAIN-SUFFIX,apple.com,Apple
+DOMAIN-SUFFIX,apple.com.cn,Apple
+DOMAIN-SUFFIX,apple-cloudkit.com,Apple
+DOMAIN-SUFFIX,appstore.com,Apple
+DOMAIN-SUFFIX,cdn-apple.com,Apple
+DOMAIN-SUFFIX,icloud.com,Apple
+DOMAIN-SUFFIX,icloud.com.cn,Apple
+DOMAIN-SUFFIX,icloud-content.com,Apple
+DOMAIN-SUFFIX,me.com,Apple
+DOMAIN-SUFFIX,mzstatic.com,Apple
+DOMAIN-KEYWORD,apple.com.akadns.net,Apple
+DOMAIN-KEYWORD,icloud.com.akadns.net,Apple
+IP-CIDR,17.0.0.0/8,Apple
+IP-CIDR,63.92.224.0/19,Apple
+IP-CIDR,65.199.22.0/23,Apple
+IP-CIDR,139.178.128.0/18,Apple
+IP-CIDR,144.178.0.0/19,Apple
+IP-CIDR,192.35.50.0/24,Apple
+IP-CIDR,198.183.17.0/24,Apple
+IP-CIDR,205.180.175.0/24,Apple
+# ---(Apple)---
+# > Apple URL Shortener
+DOMAIN-SUFFIX,appsto.re,Apple
+# > iBooks Store download
+DOMAIN,books.itunes.apple.com,Apple
+# > App Store Preview
+DOMAIN,apps.apple.com,Apple
+DOMAIN,itunes.apple.com,Apple
+# > Spotlight
+DOMAIN,api-glb-sea.smoot.apple.com,Apple
+# > Look Up
+DOMAIN-SUFFIX,smoot.apple.com,Apple
+DOMAIN,lookup-api.apple.com,Apple
+# > Apple Music Web
+DOMAIN,beta.music.apple.com,Apple
+DOMAIN,appleid.apple.com,Apple
+DOMAIN,developer.apple.com,Apple
+DOMAIN,www.icloud.com,Apple
+DOMAIN,ocsp.apple.com,Apple
+DOMAIN,xp.apple.com,Apple
+DOMAIN,testflight.apple.com,Apple
