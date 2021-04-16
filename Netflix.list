@@ -21,6 +21,14 @@ DOMAIN-SUFFIX,instagram.com,Netflix
 DOMAIN-SUFFIX,cdninstagram.com,Netflix
 DOMAIN-KEYWORD,dualstack.apiproxy-device-prod-nlb-,Netflix
 DOMAIN-KEYWORD,dualstack.ichnaea-web-,Netflix
+DOMAIN-SUFFIX,facebook.com,PROXY
+DOMAIN-SUFFIX,facebook.net,PROXY
+DOMAIN-SUFFIX,fb.com,PROXY
+DOMAIN-SUFFIX,fb.me,PROXY
+DOMAIN-SUFFIX,fbaddins.com,PROXY
+DOMAIN-SUFFIX,fbcdn.net,PROXY
+DOMAIN-SUFFIX,fbsbx.com,PROXY
+DOMAIN-SUFFIX,fbworkmail.com,PROXY
 IP-CIDR,23.246.0.0/18,Netflix
 IP-CIDR,37.77.184.0/21,Netflix
 IP-CIDR,45.57.0.0/17,Netflix
