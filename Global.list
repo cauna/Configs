@@ -16,16 +16,7 @@ DOMAIN-SUFFIX,onedrive.live.com,PROXY
 DOMAIN-SUFFIX,streaming.mediaservices.windows.net,PROXY
 DOMAIN,az416426.vo.msecnd.net,PROXY
 DOMAIN,az668014.vo.msecnd.net,PROXY
-# > Facebook
 
-DOMAIN-SUFFIX,facebook.com,PROXY
-DOMAIN-SUFFIX,facebook.net,PROXY
-DOMAIN-SUFFIX,fb.com,PROXY
-DOMAIN-SUFFIX,fb.me,PROXY
-DOMAIN-SUFFIX,fbaddins.com,PROXY
-DOMAIN-SUFFIX,fbcdn.net,PROXY
-DOMAIN-SUFFIX,fbsbx.com,PROXY
-DOMAIN-SUFFIX,fbworkmail.com,PROXY
 
 DOMAIN-SUFFIX,m.me,PROXY
 DOMAIN-SUFFIX,messenger.com,PROXY
